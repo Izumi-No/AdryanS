@@ -1,6 +1,6 @@
 ### Olá me chamo Adryan Samuel, tenho 16 anos e sou dev front-end 💻
 
-### Comecei a programar no começo de 2020 aprendendo JavaScript desde então não o larguei, mas tambem sei outras linguagens como html e css e um pouco de c#, typeScript e python.
+### Comecei a programar no começo de 2020 aprendendo JavaScript desde então não o larguei, mas tambem sei outras linguagens como html e css e um pouco de typeScript e python.
 
 # 
 
@@ -10,7 +10,6 @@
   <img src="https://img.icons8.com/color/55/000000/javascript--v1.png"/>
   <img src="https://img.icons8.com/color/55/000000/html-5--v1.png"/>
   <img src="https://img.icons8.com/color/55/000000/css3.png"/>
-  <img src="https://img.icons8.com/color/55/000000/c-sharp-logo.png"/>
   <img src="https://img.icons8.com/color/55/000000/typescript.png"/>
   <img src="https://img.icons8.com/color/55/000000/python--v1.png"/>
 </div>
